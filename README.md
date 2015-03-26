@@ -67,3 +67,4 @@ Merit Money uses the following and cutting-edge technologies:
 ![](doc/assets/merit_money_coworkers.png)
 ![](doc/assets/merit_money_comments.png)
 ![](doc/assets/merit_money_giving.png)
+
